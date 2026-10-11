@@ -1,0 +1,4 @@
+makan|10000.0|ayam geprek
+minum|15000.0|matcha
+transportasi|20000.0|maxim
+jajan|10000.0|donat

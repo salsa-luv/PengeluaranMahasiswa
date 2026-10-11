@@ -1,0 +1,7 @@
+LAPORAN PENGELUARAN MAHASISWA
+makan : Rp10000.0 - ayam geprek
+minum : Rp15000.0 - matcha
+transportasi : Rp20000.0 - maxim
+jajan : Rp10000.0 - donat
+Total: Rp55000.0
+Rata-rata: Rp13750.0
